@@ -4,6 +4,9 @@ I developed my own file comparator this program it serves to compare a even numb
 * -i to jump n bytes of the file
 ## How to test 
 * create a compile file 
-gcc micmp.c micmpMain.c "_this command create a default file to compile called a.out_" 
-* execute 
-./a.out [-i n1:n2 -l] namefiles
+```
+ gcc micmp.c micmpMain.c "_this command create a default file to compile called a.out_" 
+ ```
+* execute
+```
+ ./a.out [-i n1:n2 -l] namefiles
