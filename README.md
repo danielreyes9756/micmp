@@ -5,7 +5,7 @@ I developed my own file comparator this program it serves to compare a even numb
 ## How to test 
 * create a compile file 
 ```
- gcc micmp.c micmpMain.c "_this command create a default file to compile called a.out_" 
+ gcc micmp.c micmpMain.c "this command create a default file to compile called a.out, to change the name use -o name" 
  ```
 * execute
 ```
